@@ -1,5 +1,9 @@
 package main
 
+func main() {
+
+}
+
 //Contants
 const OP_0 = byte(0)
 const OP_FALSE = byte(0)
