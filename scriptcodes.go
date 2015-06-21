@@ -77,8 +77,8 @@ const OP_EQUALVERIFY = byte(136)
 //Arithmetic
 const OP_1ADD = byte(139)
 const OP_1SUB = byte(140)
-const OP_2MUL = byte(141)
-const OP_2DIV = byte(142)
+const OP_2MUL = byte(141) //disabled
+const OP_2DIV = byte(142) //disabled
 const OP_NEGATE = byte(143)
 const OP_ABS = byte(144)
 const OP_NOT = byte(145)
