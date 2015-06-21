@@ -4,13 +4,23 @@ All Bitcoin Script opcodes. For use in your bitcoin-related go projects.
 
 Taken from the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
 
+Install:
+```
+go get github.com/prettymuchbryce/scriptcodes
+```
+
 Usage:
 ```
     package main
 
-    import "scriptcodes"
+    import (
+        "fmt"
+        "scriptcodes"
+    )
 
-    fmt.Println(scriptcodes.OP_VERIFY)
+    func main() {
+        fmt.Println(scriptcodes.OP_VERIFY)
+    }
 ```
 
 Enjoy!
