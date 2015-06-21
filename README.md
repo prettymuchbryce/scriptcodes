@@ -2,7 +2,7 @@
 
 All Bitcoin Script opcodes. For use in your bitcoin-related go projects.
 
-Taken from the (Bitcoin Wiki)[https://en.bitcoin.it/wiki/Script]
+Taken from the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Script)
 
 Usage:
 ```
